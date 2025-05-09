@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blakebyer
 - 👀 I’m interested in computational biology
-- 🌱 I’m currently learning Python, R, and Linux
+- 🌱 I’m currently learning machine learning with R and Python
 - ⚡ Fun fact: I like to run and hike
 
 <!---
