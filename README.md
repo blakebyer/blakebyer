@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blakebyer
-- 👀 I’m interested in computational and systems biology
-- 🌱 I’m currently learning machine learning with R and Python
+- 👀 I’m interested in computational and systems neuroscience
+- 🌱 I create multivariate statistics and ML tools in R and Python
 - ⚡ Fun fact: I like to run and hike
 
 <!---
